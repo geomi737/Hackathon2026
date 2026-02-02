@@ -1,0 +1,14 @@
+streamlit
+leafmap
+opencv-python
+pandas
+numpy
+plotly
+matplotlib
+rasterio
+sentinelhub-py
+python-dotenv
+ultralytics
+sahi
+torch
+geopy
